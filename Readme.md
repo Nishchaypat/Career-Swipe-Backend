@@ -46,4 +46,5 @@ But we don't stop there! Our platform goes above and beyond by providing invalua
 
 ---
 
-© 2024 CareerSwipe. All rights reserved.
+### Disclaimer
+This project is a personal development project and is not affiliated with or endorsed by any corporation. No liability or responsibility is undertaken for any issues or damages that may arise from using this project.
